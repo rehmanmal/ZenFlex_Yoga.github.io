@@ -234,6 +234,9 @@ section {
         padding: 8px 24px;
         font-size: 11px;
     }
+    .home {
+        background-size: contain; /* Background image ko adjust karega */
+    }
 }
 
 /* About Section */
