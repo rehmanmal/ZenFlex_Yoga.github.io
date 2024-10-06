@@ -236,8 +236,9 @@ section {
         font-size: 11px;
     }
     .home {
-        background-size: contain; /* Background image ko adjust karega */
+        background-size: contain;
         background-repeat: no-repeat;
+        background-size: cover;
     }
 }
 
